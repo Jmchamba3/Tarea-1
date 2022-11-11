@@ -73,7 +73,7 @@ Capitulo 2 - Voltaje corriente y resistencia
 ![imagen](https://user-images.githubusercontent.com/116812651/201253571-f382ac34-cc68-48c3-81c8-d4b00e84a395.png)deo
 
 ## 4. Video
-Enlaca video subido a youtube: 
+Enlaca video subido a youtube: https://youtu.be/_RWACNB99r0
 
 ## 5.Conclusiones
 
