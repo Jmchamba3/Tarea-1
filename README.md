@@ -16,8 +16,14 @@ Introducción
 
 La importancia de conocer el tipo de información en la que se va ahondar con los diversos mapas conceptuales es para una mejor comprensión básica sobre los temas vistos dentro delos 2 capitulos asignados.
 
-
-
+Capitulo 1 - Cantidades y Unidades
+![imagen](https://user-images.githubusercontent.com/116812651/201260953-ed23d096-e5d6-46f4-af18-931dd1d55d1b.png)
+Capitulo 2 - Voltaje corriente y resistencia 
+![imagen](https://user-images.githubusercontent.com/116812651/201264378-eee0e12d-91ce-4441-b204-cc2236591995.png)
+![imagen](https://user-images.githubusercontent.com/116812651/201265918-cb3d4ae3-9e4d-422f-94de-59680bea7966.png)
+![imagen](https://user-images.githubusercontent.com/116812651/201269889-0c3477d8-49f7-4905-8091-29cecc5318d9.png)
+![imagen](https://user-images.githubusercontent.com/116812651/201271309-0bd6ee10-ed74-4d46-8522-8434f1058840.png)
+![imagen](https://user-images.githubusercontent.com/116812651/201273024-58f0b521-69e5-48c1-bbc8-b4df7d5397df.png)
 
 
 ## 3. Explicación y resolución de ejercicios o problemas
@@ -62,8 +68,7 @@ La importancia de conocer el tipo de información en la que se va ahondar con lo
 ![imagen](https://user-images.githubusercontent.com/116812651/201253310-69936162-cdf0-4ce9-8f44-07b267c44dfa.png)
 ![imagen](https://user-images.githubusercontent.com/116812651/201253335-5b50dd98-7859-4325-9a69-d06f4c3df2aa.png)
 ![imagen](https://user-images.githubusercontent.com/116812651/201253369-d4e1cbb6-af6e-4f8a-a4b0-98e11486ff57.png)
-
-
+![imagen](https://user-images.githubusercontent.com/116812651/201273265-1f6f7be9-f15e-40a1-94c1-9902bd6be8cb.png)
 ![imagen](https://user-images.githubusercontent.com/116812651/201253415-51c4dc55-2e3c-4b4a-b158-57ad1f6a2da0.png)
 ![imagen](https://user-images.githubusercontent.com/116812651/201253571-f382ac34-cc68-48c3-81c8-d4b00e84a395.png)deo
 
